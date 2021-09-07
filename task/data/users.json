@@ -1,0 +1,42 @@
+[
+  {
+    "userid": 4,
+    "firstname": "Joe",
+    "surname": "Public",
+    "username": "joey99",
+    "type": "Employee",
+    "lastlogintime": "22-09-2014 08:23:54"
+  },
+  {
+    "userid": 5,
+    "firstname": "Gary",
+    "surname": "May",
+    "username": "gary23",
+    "type": "Manager",
+    "lastlogintime": "02-01-2015 12:09:35"
+  },
+  {
+    "userid": 6,
+    "firstname": "Jessica",
+    "surname": "James",
+    "username": "jj56",
+    "type": "Employee",
+    "lastlogintime": "13-01-2015 08:56:12"
+  },
+  {
+    "userid": 7,
+    "firstname": "Frank",
+    "surname": "Bruno",
+    "username": "franky",
+    "type": "employee",
+    "lastlogintime": "12-01-2015 16:15:43"
+  },
+  {
+    "userid": 8,
+    "firstname": "Bob",
+    "surname": "Marley",
+    "username": "bobby3",
+    "type": "Manager",
+    "lastlogintime": "01-02-2015 13:01:00"
+  }
+]

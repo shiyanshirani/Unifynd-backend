@@ -1,0 +1,100 @@
+<Users>
+    <User>
+        <userid>1</userid>
+        <firstname>John</firstname>
+        <surname>Doe</surname>
+        <username>John1</username>
+        <type>Employee</type>
+        <lastlogintime>12-01-2015 12:01:34</lastlogintime>
+    </User>
+    
+<Users>
+    <User>
+        <userid>2</userid>
+        <firstname>Mary</firstname>
+        <surname>Jane</surname>
+        <username>Mary23</username>
+        <type>Employee</type>
+        <lastlogintime>01-11-2014 13:45:42</lastlogintime>
+    </User>
+    
+<Users>
+    <User>
+        <userid>3</userid>
+        <firstname>David</firstname>
+        <surname>Payne</surname>
+        <username>Dpayne</username>
+        <type>Manager</type>
+        <lastlogintime>23-09-2014 09:35:02</lastlogintime>
+    </User>
+    
+<Users>
+    <User>
+        <userid>4</userid>
+        <firstname>Joe</firstname>
+        <surname>Public</surname>
+        <username>joey99</username>
+        <type>Employee</type>
+        <lastlogintime>22-09-2014 08:23:54</lastlogintime>
+    </User>
+    
+<Users>
+    <User>
+        <userid>5</userid>
+        <firstname>Gary</firstname>
+        <surname>May</surname>
+        <username>gary23</username>
+        <type>Manager</type>
+        <lastlogintime>02-01-2015 12:09:35</lastlogintime>
+    </User>
+    
+<Users>
+    <User>
+        <userid>6</userid>
+        <firstname>Jessica</firstname>
+        <surname>James</surname>
+        <username>jj56</username>
+        <type>Employee</type>
+        <lastlogintime>13-01-2015 08:56:12</lastlogintime>
+    </User>
+    
+<Users>
+    <User>
+        <userid>7</userid>
+        <firstname>Frank</firstname>
+        <surname>Bruno</surname>
+        <username>franky</username>
+        <type>employee</type>
+        <lastlogintime>12-01-2015 16:15:43</lastlogintime>
+    </User>
+    
+<Users>
+    <User>
+        <userid>8</userid>
+        <firstname>Bob</firstname>
+        <surname>Marley</surname>
+        <username>bobby3</username>
+        <type>Manager</type>
+        <lastlogintime>01-02-2015 13:01:00</lastlogintime>
+    </User>
+    
+<Users>
+    <User>
+        <userid>9</userid>
+        <firstname>Shaun</firstname>
+        <surname>Stevens</surname>
+        <username>shaun</username>
+        <type>Employee</type>
+        <lastlogintime>01-02-2015 13:00:00</lastlogintime>
+    </User>
+    
+<Users>
+    <User>
+        <userid>10</userid>
+        <firstname>Ruby</firstname>
+        <surname>Wax</surname>
+        <username>ruby</username>
+        <type>Employee</type>
+        <lastlogintime>12-12-2014 08:09:13</lastlogintime>
+    </User>
+    
