@@ -8,6 +8,6 @@
 * After conversion I assinged all the files to be concatinated to a single csv file.
 * Then using sort function which comes in hand with pandas I used to it sort the dataframe.
 * Afterwards, I exported each file back into their native format.
-* /Result/ directory is the final result delivered.
+* `/result/user.extension/` directory is the final result delivered.
 > Again, apologies for submitting a messed up file. I would be able to clean it up in a jiffy but I did not wanted to cross the time limit. Thanking you in advance.
 
